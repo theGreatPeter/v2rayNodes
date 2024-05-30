@@ -24,3 +24,4 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?encryption=none&s
 vless://a04be4ef-1797-4ca9-a549-4385ce42494c@185.146.173.145:443?encryption=none&security=tls&sni=vls4de.nimaxmusic.ir&type=ws&host=vls4de.nimaxmusic.ir&path=%2Fvls4dews#t.me%2Fpeterjest
 vless://03d04737-bb0e-4cd5-9139-f40b72a43fe9@185.146.173.187:80?encryption=none&security=none&type=ws&host=bia-channel-hajimamad-join-bede.golden-ping.ir&path=%40HAJIMAMADVPN%2C%40HAJIMAMADVPN%2C%40HAJIMAMADVPN%3Fed%3D2056#t.me%2Fpeterjest
 vless://58e1a8ae-d8ae-4d71-885d-eeaea5f967e2@185.146.173.94:80?encryption=none&security=none&type=ws&host=1.v2raY.mIhANYAs.Ir.mBj.FArSrOId.COm.XN--fHq0La447aAC5504dEa701axR1G.IsVphp.iR.&path=%2Fvless#t.me%2Fpeterjest
+
